@@ -41,4 +41,4 @@ TechNova is a modern technology company website created using HTML5 and CSS3. Th
 
 ## Live Deployment Link (GitHub Pages)
 
-[View Live Project](https://github.com/ManjeetPrabhakarRawat/vhbuyio-frontenddevelopment-internship-manjeetprabhakarrawat)
+[View Live Project](https://manjeetprabhakarrawat.github.io/vhbuyio-frontenddevelopment-internship-manjeetprabhakarrawat/)
