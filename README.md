@@ -1,6 +1,6 @@
 # Project Title
 
-TechNova — Ultimate Frontend Project
+TechNova - Modern Technology Company Website
 
 ## Project Description
 
