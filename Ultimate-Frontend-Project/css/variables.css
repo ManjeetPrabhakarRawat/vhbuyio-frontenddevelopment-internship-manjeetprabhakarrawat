@@ -1,0 +1,17 @@
+:root {
+  --primary: #2563eb;
+  --primary-dark: #1d4ed8;
+  --secondary: #7c3aed;
+  --dark: #111827;
+  --text: #374151;
+  --muted: #6b7280;
+  --light: #f7f9fc;
+  --white: #fff;
+  --border: #e5e7eb;
+  --success: #16a34a;
+  --warning: #d97706;
+  --container: 1160px;
+  --radius: 14px;
+  --shadow: 0 10px 30px rgba(17, 24, 39, 0.08);
+  --font: Arial, Helvetica, sans-serif;
+}
